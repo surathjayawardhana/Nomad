@@ -1,2 +1,2 @@
 # Experiments
-this is the repo i put my random codes Experiments
+This is the repository where I store my random code experiments.
